@@ -2,7 +2,7 @@ Hello, World
 
 qwerty111
 
-Another line by user1
+Line from user2
 
 Line from user1
 
